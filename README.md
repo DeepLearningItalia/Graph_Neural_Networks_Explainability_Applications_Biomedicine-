@@ -37,6 +37,6 @@ La repository contiene 6 notebook Python che seguondo le lezioni presentate nel 
 [![Website Badge](https://img.shields.io/badge/mastro.me-orange?style=flat&logoSize=auto&label=website&labelColor=orange&color=darkred&link=http://mastro.me)](http://mastro.me)
 [![email Badge](https://img.shields.io/badge/email-white?style=flat&logo=gmail&logoSize=auto)](mailto:mastropietro@diag.uniroma1.it)
 [![github](https://img.shields.io/badge/AndMastro-100000?style=flat&logo=github&logoColor=white)](https://github.com/AndMastro)
-[![LinkedIn Badge](https://img.shields.io/badge/Andrea%20Mastropietro-blue?style=flat&logo=linkedin&logoSize=auto&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrea-mastropietro%2F)](https://www.linkedin.com/in/andrea-mastropietro/)
+[![LinkedIn Badge](https://img.shields.io/badge/andrea--mastropietro-blue?style=flat&logo=linkedin&logoSize=auto&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrea-mastropietro%2F)](https://www.linkedin.com/in/andrea-mastropietro/)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FAndMastro&logo=twitter&logoSize=auto&label=AndMastro&link=https%3A%2F%2Fx.com%2FAndMastro)](https://x.com/AndMastro)
-[![RG Badge](https://img.shields.io/badge/Andrea%20Mastropietro-grey?style=flat&logo=researchgate&logoSize=auto&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FAndrea-Mastropietro)](https://www.researchgate.net/profile/Andrea-Mastropietro)
+[![RG Badge](https://img.shields.io/badge/Andrea--Mastropietro-grey?style=flat&logo=researchgate&logoSize=auto&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FAndrea-Mastropietro)](https://www.researchgate.net/profile/Andrea-Mastropietro)
