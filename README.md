@@ -27,7 +27,6 @@ La repository contiene 6 notebook Python che seguondo le lezioni presentate nel 
 ## Docente
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://lh5.googleusercontent.com/wCtbF5xRfkNjrrjzW_5Pyg3_YPM8c85lcJNZZ4HmE5cAd_JhGZQ5_Th2Xv9ddjIahmo8-aZZkYGNQH7eiadrGeTHdoeqNzNTXdIvIoX2MWRORThUUdgK9j9pI3qaWebtXw=w1280" alt="Description" style="width: 200px; margin-right: 10px;">
   <span>Mi chiamo Andrea Mastropietro, sono un ingegnere informatico, data scientist e ricercatore in biomedical artificial intelligence. Sono laureato in Ingegneria Informatica e Automatica (triennale) alla Sapienza e Engineering in Computer Science (magistrale) nella stessa università. La passione per la ricerca e per l’impatto che essa può avere mi ha portato a conseguire un dottorato in Data Science con una tesi dal titolo “Toward Explainable Biomedical Deep Learning – Training and Explaining Neural Networks in Bioinformatics and Medicinal Chemistry”. Durante il mio dottorato, ho svolto un periodo di ricerca all’Università di Bonn in Germania. La mia attività di ricerca si basa sull’applicazione dell’intelligenza artificiale, in particolare del deep learning, in ambito biomedico, bioinformatico e chemoinformatico, con un focus particolare sullo sviluppo ed utilizzo di tecniche di explainable artificial intelligence (XAI), per aprire la “black box” di questi sistemi e renderli più utilizzabili in biomedicina.
 </span>
 </div>
