@@ -15,7 +15,7 @@ conda activate GNN_XAI_Biomedicine_env
 ```
 Il nome di default dell'environment (GNN_XAI_Biomedicine_env) può essere modificato a piacimento.
 
-Ora installare altri pacchetti necessari utilizzando pip:
+Ora installate altri pacchetti necessari utilizzando pip:
 
 ```bash
 pip install pysmiles
