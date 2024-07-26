@@ -7,12 +7,21 @@ La repository contiente un file ```environment.yml``` con tutti i pacchetti nece
 ```bash
 conda env create -f environment.yml
 ```
+
 Quando tutti i pacchetti saranno stati installati, attivate l'environment:
 
 ```bash
 conda activate GNN_XAI_Biomedicine_env
 ```
 Il nome di default dell'environment (GNN_XAI_Biomedicine_env) può essere modificato a piacimento.
+
+Ora installare altri pacchetti necessari utilizzando pip:
+
+```bash
+pip install pysmiles
+pip install torch_scatter torch_cluster -f https://data.pyg.org/whl/torch-2.2.0+cu121.html
+pip install torchdrug
+```
 
 ## Contenuto
 La repository contiene 6 notebook Python che seguondo le lezioni presentate nel corso. In particolare:
