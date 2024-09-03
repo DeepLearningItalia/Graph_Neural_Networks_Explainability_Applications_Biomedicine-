@@ -22,6 +22,7 @@ pip install pysmiles
 pip install torch_scatter torch_cluster -f https://data.pyg.org/whl/torch-2.2.0+cu121.html
 pip install torchdrug
 ```
+Poi, installate [questo modulo](https://github.com/c-feldmann/rdkit_heatmaps) che servirà per alcune funzioni di visualizzazione.
 
 ## Contenuto
 La repository contiene 6 notebook Python che seguondo le lezioni presentate nel corso. In particolare:
